@@ -1,9 +1,3 @@
-CyanideOverdose dotfiles
-=====================
-
-install
-=======
-
     pacman -S artwiz-fonts awesome ctags git gtk-engine-murrine jshon         \
               keychain lua luajit luakit mpc mpd mpv mutt msmtp notmuch pass  \
               ruby rxvt-unicode slock sxiv tmux xautolock xorg-server         \
